@@ -1,0 +1,22 @@
+{
+  "name": "datadiff-node",
+  "version": "1.0.0",
+  "description": "A node client for the Datadiff.co API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theninthnode/datadiff-node"
+  },
+  "keywords": [
+    "datadiff"
+  ],
+  "author": "Billy Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theninthnode/datadiff-node/issues"
+  },
+  "homepage": "https://github.com/theninthnode/datadiff-node"
+}
