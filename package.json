@@ -1,5 +1,5 @@
 {
-  "name": "datadiff-node",
+  "name": "datadiff",
   "version": "1.0.0",
   "description": "A node client for the Datadiff.co API",
   "main": "index.js",
